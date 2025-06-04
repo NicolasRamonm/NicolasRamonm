@@ -1,8 +1,8 @@
 ## Olá, eu sou o Nicolas 👋
 
-🎓 Estudante de Engenharia de Computação no Inteli — Instituto de Tecnologia e Liderança.  
+🎓 Estudante de Engenharia de Software no Inteli — Instituto de Tecnologia e Liderança.  
 📊 Aprendendo Data Science, Inteligência Artificial e aplicações de dados para negócios financeiros e segurança digital.  
-💼 Atualmente desenvolvendo solução para o setor financeiro e utilities, com foco em modelagem preditiva e sistemas de recomendação.
+💼 Atualmente desenvolvendo uma solução para o setor financeiro e utilities, com foco em modelagem preditiva e sistemas de recomendação.
 
 ### 🚀 Projetos em destaque:
 - 🔍 **Recomendação de Ativos para Reenquadramento CVM 175** — Sistema de recomendação com K-Means e SVD para realocação de portfólio de investimentos.
@@ -19,5 +19,5 @@
 ### 📚 Tecnologias:
 `Python` | `SQL` | `Scikit-learn` | `Pandas` | `C#` | `JavaScript` | `Angular` | `Node.js` | `Docker` | `AWS`
 
-### 📫 Vamos conversar:
+### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nicolasramons/)
