@@ -11,7 +11,7 @@
   🔍 Detecção de anomalias e fraudes no consumo de gás, usando análise exploratória de dados, K-Means e Random Forest. Projeto desenvolvido em **Jupyter Notebook**.
 
 - [**C.I.D.A-IoT-Solution**](https://github.com/NicolasRamonm/C.I.D.A-IoT-Solution)  
-  🌐 Plataforma de monitoramento e controle para ambientes industriais utilizando sensores IoT, integrando frontend em **HTML** com dispositivos embarcados.
+  🌐 Plataforma de monitoramento ambiental utilizando sensores IoT, integrando frontend com dispositivos embarcados.
 
 - [**LoV-Aplicacao-Web**](https://github.com/NicolasRamonm/LoV-Aplicacao-Web)  
   💻 Aplicação web interativa desenvolvida em **JavaScript** e **HTML**, com foco em usabilidade e experiência do usuário.
