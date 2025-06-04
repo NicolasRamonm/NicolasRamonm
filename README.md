@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou o Nicolas 👋
 
-<!--
-**NicolasRamonm/NicolasRamonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação no Inteli — Instituto de Tecnologia e Liderança.  
+📊 Aprendendo Data Science, Inteligência Artificial e aplicações de dados para negócios financeiros e segurança digital.  
+💼 Atualmente desenvolvendo solução para o setor financeiro e utilities, com foco em modelagem preditiva e sistemas de recomendação.
 
-Here are some ideas to get you started:
+### 🚀 Projetos em destaque:
+- 🔍 **Recomendação de Ativos para Reenquadramento CVM 175** — Sistema de recomendação com K-Means e SVD para realocação de portfólio de investimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**GaSafe-Modelo-Preditivo**](https://github.com/NicolasRamonm/GaSafe-Modelo-Preditivo)  
+  🔍 Detecção de anomalias e fraudes no consumo de gás, usando análise exploratória de dados, K-Means e Random Forest. Projeto desenvolvido em **Jupyter Notebook**.
+
+- [**C.I.D.A-IoT-Solution**](https://github.com/NicolasRamonm/C.I.D.A-IoT-Solution)  
+  🌐 Plataforma de monitoramento e controle para ambientes industriais utilizando sensores IoT, integrando frontend em **HTML** com dispositivos embarcados.
+
+- [**LoV-Aplicacao-Web**](https://github.com/NicolasRamonm/LoV-Aplicacao-Web)  
+  💻 Aplicação web interativa desenvolvida em **JavaScript** e **HTML**, com foco em usabilidade e experiência do usuário.
+
+### 📚 Tecnologias:
+`Python` | `SQL` | `Scikit-learn` | `Pandas` | `C#` | `JavaScript` | `Angular` | `Node.js` | `Docker` | `AWS`
+
+### 📫 Vamos conversar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nicolasramons/)
