@@ -14,7 +14,7 @@
   🌐 Plataforma de monitoramento ambiental utilizando sensores IoT, integrando frontend com dispositivos embarcados.
 
 - [**LoV-Aplicacao-Web**](https://github.com/NicolasRamonm/LoV-Aplicacao-Web)  
-  💻 Aplicação web interativa desenvolvida em **JavaScript** e **HTML**, com foco em usabilidade e experiência do usuário.
+  💻 Aplicação web interativa desenvolvida em **Sails**, com foco em usabilidade e experiência do usuário.
 
 ### 📚 Tecnologias:
 `Python` | `SQL` | `Scikit-learn` | `Pandas` | `C#` | `JavaScript` | `Angular` | `Node.js` | `Docker` | `AWS`
